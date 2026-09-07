@@ -21,16 +21,6 @@ This repository is ideal for developers learning how to integrate LangChain with
 ## Demo & Links
 - **GitHub Repository**: [Gen-AI](https://github.com/manishkr6/Gen-AI) *(Note: Update URL if hosted elsewhere)*
 
-## Screenshots / Preview
-*TODO: Add screenshots of the Streamlit interfaces.*
-
-**Recommended Screenshots to Add:**
-```text
-images/
-├── mood_chatbot_ui.png  (Screenshot of chatmodels/UIchatbot.py)
-└── movie_extractor_ui.png (Screenshot of SeeCodes/UIcore.py)
-```
-
 ## Features
 **User Features (Streamlit UI)**
 - 🎭 **Mood-Based Chatbot**: An interactive chatbot where users can select the AI's personality (Angry, Funny, or Sad).
